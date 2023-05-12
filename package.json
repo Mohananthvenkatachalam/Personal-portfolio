@@ -1,0 +1,19 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "dev:host": "vite --host",
+    "preview": "vite preview"
+  },
+
+  "devDependencies": {
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
